@@ -11,3 +11,5 @@ Pin   Name    Function
 4     TX      TX connection
 5     RX      RX connection
 6     GPIO0   Used to signal the ESP’s bootloader
+
+
